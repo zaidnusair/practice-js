@@ -14,3 +14,5 @@ if (hourNow >18) {
     greeting = 'Somethingwentwrong!';
  } 
  document.write('<h3>' + greeting + '</h3>');
+
+ 
